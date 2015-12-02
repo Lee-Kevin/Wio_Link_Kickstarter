@@ -8,8 +8,8 @@ import time
 # Kickstarter_url = "https://www.kickstarter.com/projects/search.json?search=&term=%22Pizza%20Book%22" #other ks project
 Kickstarter_url = "https://www.kickstarter.com/projects/search.json?search=&term=%22Wio%20Link%22" #wio link ks
 wio_link_led_url = "https://cn.iot.seeed.cc/v1/node/GroveLedWs2812/segment/0/"
-wio_link_key = "access_token=ce9356cb1840fad3e09c9fd2c7b9865b"
-wio_link_recorder = "https://cn.iot.seeed.cc/v1/node/GroveRecorder/play_once?access_token=ce9356cb1840fad3e09c9fd2c7b9865b"
+wio_link_key = "access_token=your token"
+wio_link_recorder = "https://cn.iot.seeed.cc/v1/node/GroveRecorder/play_once?access_token=your token"
 wio_link_servo = "https://cn.iot.seeed.cc/v1/node/GroveServo/angle/"
 USD_PLEDGED = 0
 BACKERS_COUNT = 0
